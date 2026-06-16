@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+temp_resume.pdf
+*.pyc
+.history/
+.vscode
+models/*.pkl
